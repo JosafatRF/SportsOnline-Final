@@ -1,0 +1,10 @@
+div#carrusel{
+	width: all;
+	height: 500px;
+	background-color: white;
+}
+
+.carrusel{
+	font-size: 5em;
+	margin-left: 15%;
+}
